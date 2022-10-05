@@ -1,5 +1,5 @@
 body{
-    background-color: hsl(217, 54%, 11%);
+    background-color: hsla(216, 54%, 11%, 0.979);
 
 }
 
@@ -12,6 +12,7 @@ body{
     margin-left: 39%;
     margin-top: 10%;
     border-radius: 8px;
+    box-shadow: 1px 1px 4px 10px hsl(217, 54%, 11%);
 }
 
 .nft {
