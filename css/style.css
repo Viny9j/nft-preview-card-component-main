@@ -1,0 +1,104 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+
+}
+
+.card{
+    background-color: hsl(216, 50%, 16%);
+    /* border: 1px solid white; */
+    height: 430px;
+    width: 280px;
+    display: flex;
+    margin-left: 39%;
+    margin-top: 12%;
+    border-radius: 8px;
+}
+
+.nft {
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 18px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 25px;
+    font-family: 'Outfit';
+}
+
+p {
+    font-family: 'Outfit';
+    color: hsl(215, 51%, 70%);
+    font-size: 13px;
+    /* border: 1px solid white;  */
+    margin-left: 25px;
+    margin-top: 8px;
+    width: 80%;
+}
+
+.buy {
+
+    display: flex;
+    align-items: flex-start;
+}
+
+.eth {
+    width: 10px;
+    margin-top: 4px;
+    margin-left: 25px;
+    /* border: 1px solid white; */
+}
+
+.eth-buy {
+    color: hsl(178, 100%, 50%);
+    margin-left: 6px;
+    margin-top:5px;
+    align-items: center;
+}
+
+.clock {
+    /* border: 1px solid white; */
+    display: flex;
+    position: absolute;
+    right: 43%;
+    bottom: 26.80%;
+}
+
+.day {
+    /* border: 1px solid white; */
+    width: 60px;
+    position: absolute;
+    right: 36.50%;
+    bottom: 24.90%;
+}
+
+.line {
+    border: 1px solid hsl(215, 32%, 27%);
+    width: 80%;
+    margin-left: 25px;
+}
+
+.avatar {
+    border: 1px solid white;
+    border-radius: 50px;
+    width: 10%;
+    position: relative;
+    left: 10%;
+    margin-top: 7px;
+}
+
+.name {
+    position: absolute;
+    bottom: 16.0%;
+    left: 44%;
+}
+
+.attribution {
+    margin-left: 55px;
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+}
